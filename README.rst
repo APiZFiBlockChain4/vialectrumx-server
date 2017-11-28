@@ -4,6 +4,9 @@
     :target: https://coveralls.io/github/kyuupichan/electrumx
 
 ===============================================
+Obsolete - Use https://github.com/kyuupichan/electrumx/ 
+ElectrumX supports Viacoin now and maintains it.
+
 VialectrumX - Reimplementation of Vialectrum-server
 ===============================================
 
